@@ -7,14 +7,15 @@ The main objective of this project is to improve data quality, maintain consiste
 
 ### Objectives
 
-Identify and handle missing values in the dataset.
-Detect and remove duplicate records.
-Split the Product ID into Manufacturing Date and Country Code.
-Combine Brand Name and Product Name into a single column.
-Format the Price column as currency.
-Extract and organize the date information from the Product ID.
-Apply conditional formatting to highlight price variations and specific product categories.
-Improve the overall consistency and readability of the dataset.
+- Identify and handle missing values in the dataset.
+- Detect and remove duplicate records.
+- Split the Product ID into Manufacturing Date and Country Code.
+- Combine Brand Name and Product Name into a single column.
+- Format the Price column as currency.
+- Extract and organize the date information from the Product ID.
+- Apply conditional formatting to highlight price variations and specific product categories.
+- Improve the overall consistency and readability of the dataset.
+
 Repository Contents
 
 This repository contains the following files:
@@ -31,14 +32,14 @@ README.md	Project overview, objectives, and description of the tasks performed.
 
 ### Key Outcomes
 
-Identified missing values in the Price and Category columns.
-Removed duplicate records from the dataset.
-Extracted date information and country codes from Product ID.
-Combined Brand Name and Product Name into a single column.
-Standardized the currency format of the Price column.
-Organized date information in the DD-MMM format.
-Applied conditional formatting to improve data visualization.
-Improved the consistency and readability of the dataset.
+- Identified missing values in the Price and Category columns.
+- Removed duplicate records from the dataset.
+- Extracted date information and country codes from Product ID.
+- Combined Brand Name and Product Name into a single column.
+- Standardized the currency format of the Price column.
+- Organized date information in the DD-MMM format.
+- Applied conditional formatting to improve data visualization.
+- Improved the consistency and readability of the dataset.
 
 ### Project Documentation
 
@@ -46,10 +47,10 @@ The accompanying Word document, Excel_Functions_Report.docx, provides a detailed
 
 ### Learning Outcomes
 
-Excel data cleaning and data organization.
-Identifying and handling missing values.
-Removing duplicate records.
-Using text functions such as LEFT, RIGHT, and CONCAT.
-Applying currency and date formatting.
-Using conditional formatting to highlight important information.
-Documenting data-cleaning procedures.
+- Excel data cleaning and data organization.
+- Identifying and handling missing values.
+- Removing duplicate records.
+- Using text functions such as LEFT, RIGHT, and CONCAT.
+- Applying currency and date formatting.
+- Using conditional formatting to highlight important information.
+- Documenting data-cleaning procedures.
