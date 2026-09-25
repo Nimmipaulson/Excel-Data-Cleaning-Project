@@ -22,9 +22,11 @@ This repository contains the following files:
 Product_Data_Cleaning.xlsx	
 
 Excel workbook containing the product dataset and data-cleaning operations.
+
 Excel_Functions_Report.docx	
 
 Word document explaining the steps, formulas, and methods used to clean and format the dataset.
+
 README.md	Project overview, objectives, and description of the tasks performed.
 
 ### Key Outcomes
