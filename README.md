@@ -1,8 +1,10 @@
 # Excel-Data-Cleaning-Project
+
 ### 📌 Project Overview
 
 This project focuses on cleaning, organizing, and formatting a product dataset using Microsoft Excel. The dataset contains product information such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
 The main objective of this project is to improve data quality, maintain consistency, identify missing values and duplicate records, and make the dataset easier to analyze using Excel functions and formatting tools.
+
 
 ### 🎯 Objectives
 
@@ -14,6 +16,7 @@ The main objective of this project is to improve data quality, maintain consiste
 - Extract and organize the date information from the Product ID.
 - Apply conditional formatting to highlight price variations and specific product categories.
 - Improve the overall consistency and readability of the dataset.
+
 
 ### 📂 Repository Contents
 
