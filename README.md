@@ -17,6 +17,7 @@ The main objective of this project is to improve data quality, maintain consiste
 
 ### 📂 Repository Contents
 
+
 **Product_Data_Cleaning.xlsx**	
 
 Excel workbook containing the product dataset and data-cleaning operations.
@@ -29,6 +30,7 @@ Word document explaining the steps, formulas, and methods used to clean and form
 
 Project overview, objectives, and description of the tasks performed.
 
+
 ### 📈 Key Outcomes
 
 - Identified missing values in the Price and Category columns.
@@ -40,9 +42,11 @@ Project overview, objectives, and description of the tasks performed.
 - Applied conditional formatting to improve data visualization.
 - Improved the consistency and readability of the dataset.
 
+
 ### 📄 Project Documentation
 
 The accompanying Word document, Excel_Functions_Report.docx, provides a detailed explanation of the steps followed in Excel, including objectives, formulas, procedures, and results for each task.
+
 
 ### 🎓 Learning Outcomes
 
