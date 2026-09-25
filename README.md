@@ -1,10 +1,10 @@
 # Excel-Data-Cleaning-Project
-📌 ### Project Overview
+### 📌 Project Overview
 
 This project focuses on cleaning, organizing, and formatting a product dataset using Microsoft Excel. The dataset contains product information such as Product ID, Product Name, Brand Name, Price, Quantity, and Category.
 The main objective of this project is to improve data quality, maintain consistency, identify missing values and duplicate records, and make the dataset easier to analyze using Excel functions and formatting tools.
 
-🎯 ### Objectives
+### 🎯 Objectives
 
 - Identify and handle missing values in the dataset.
 - Detect and remove duplicate records.
@@ -15,14 +15,21 @@ The main objective of this project is to improve data quality, maintain consiste
 - Apply conditional formatting to highlight price variations and specific product categories.
 - Improve the overall consistency and readability of the dataset.
 
-📂 ### Repository Contents
+### 📂 Repository Contents
 
-File Name	Description
-Product_Data_Cleaning.xlsx	Excel workbook containing the product dataset and data-cleaning operations.
-Excel_Functions_Report.docx	Word document explaining the steps, formulas, and methods used to clean and format the dataset.
-README.md	Project overview, objectives, and description of the tasks performed.
+**Product_Data_Cleaning.xlsx**	
 
-📈 ### Key Outcomes
+Excel workbook containing the product dataset and data-cleaning operations.
+
+**Excel_Functions_Report.docx**	
+
+Word document explaining the steps, formulas, and methods used to clean and format the dataset.
+
+**README.md**
+
+Project overview, objectives, and description of the tasks performed.
+
+### 📈 Key Outcomes
 
 - Identified missing values in the Price and Category columns.
 - Removed duplicate records from the dataset.
@@ -33,11 +40,11 @@ README.md	Project overview, objectives, and description of the tasks performed.
 - Applied conditional formatting to improve data visualization.
 - Improved the consistency and readability of the dataset.
 
-📄 ### Project Documentation
+### 📄 Project Documentation
 
 The accompanying Word document, Excel_Functions_Report.docx, provides a detailed explanation of the steps followed in Excel, including objectives, formulas, procedures, and results for each task.
 
-🎓 ### Learning Outcomes
+### 🎓 Learning Outcomes
 
 - Excel data cleaning and data organization.
 - Identifying and handling missing values.
